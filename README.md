@@ -1,7 +1,11 @@
 🌴 Love Nature
+
 👨‍💻 Android App Engineer
+
 🌐 Web Developer
+
 💡 UX Strategist
+
 ⚙️ Hardware Engineer
 
 <!--
