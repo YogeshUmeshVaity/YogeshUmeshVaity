@@ -2,7 +2,7 @@
 
 👨‍💻 Android App Engineer
 
-🌐 Web Developer
+🌐 Full-Stack Developer
 
 💡 UX Strategist
 
